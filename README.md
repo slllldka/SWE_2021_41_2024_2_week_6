@@ -1,6 +1,6 @@
 # SWE_2021_41_2024_2_week_6
 ---
-### Week 4 Assignment
+## Week 4 Assignment
 - [Week4](https://github.com/slllldka/SWE_2021_41_2024_2_week_4 "Week4 Repository Link")
 ```python
 def isHappy(n):
@@ -27,7 +27,7 @@ def isHappy(n):
 - when exited the while loop, return False
 
 ---
-### Week 5 Assignment
+## Week 5 Assignment
 ><pre>
 >  <code>docker exec ossp-container cat /etc/os-release</code>
 ></pre>
